@@ -6,7 +6,7 @@ function Page() {
   return (
     <div className="box">
       <input type="number" />
-      11111111
+      1111111112412412412412
     </div>
   );
 }
