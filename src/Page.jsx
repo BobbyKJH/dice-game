@@ -7,6 +7,7 @@ function Page() {
     <div className="box">
       <h1>Dice Game</h1>
       <input type="number" />
+      1111111112412412412412
     </div>
   );
 }
